@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Chocciedodger25
  
 - 👀 I’m interested in many computer science fields and am loving coding in java and python right now. I would love to be able to
-- move into a field within healthcare to help those that need it, or some sort of data science to design for the worlds problemns
-- such as climet change or cleaning the ocean, something to help those in need.
+      move into a field within healthcare to help those that need it, or some sort of data science to design for the worlds problemns
+      such as climet change or cleaning the ocean, something to help those in need.
   
 - 🌱 I’m currently learning c, c++, java, python, and Web Dev
  
