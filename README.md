@@ -1,4 +1,4 @@
-- <h1>👋 Hi, I’m @Chocciedodger25</h1>
+<h1>👋 Hi, I’m @Chocciedodger25</h1>
 
  <h2>Introduction</h2>
 - 👀 I’m interested in many computer science fields and love coding in Java and Python. I would love to be able to
