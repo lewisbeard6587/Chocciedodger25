@@ -4,7 +4,7 @@
       move into a field within healthcare to help those that need it, or some data science to design for the world's problems
       such as climate change or cleaning the ocean.
   
-- 🌱 I’m currently learning c, c++, java, python, and Web Dev technologies such as HTML, CSS, and Javascript.
+- 🌱 I’m currently learning C, C++, Java, Python, and Web Dev technologies such as HTML, CSS, and Javascript.
  
 - 💞️ I’m looking to collaborate on any first year projects, I am still a university student so anything that can help me progress would be amazing
  
