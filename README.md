@@ -10,7 +10,7 @@
 <br>
 <br>
 - 💞️ I am still a university student so anything that can help me progress would be amazing
-<img scr="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png">
+https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png
 
  <h2>Contact info</h2>
 - 📫 How to reach me: you can reach me here or through LinkedIn at: https://www.linkedin.com/in/lewis-beard/
