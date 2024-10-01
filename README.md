@@ -6,10 +6,12 @@
       such as climate change or cleaning the ocean.
 
   <h2>Skills and Learning</h2>
+- 💞️ I am still a university student so anything that can help me progress would be amazing
+  <br>
 - 🌱 I have experience with C, C++, Java, Python, HTML5, CSS, Javascript. I am currently learning React, NodeJS, and how to make a PERN app through Codecademy 
 <br>
 <h3>Tools</h3>
-Some tools I am familiar with 
+Some tools I am familiar with: 
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="IntelliJ" title="IntelliJ"/></code>
@@ -31,7 +33,7 @@ Languages I have experience with:
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/></code>
 </div>
 <br>
-- 💞️ I am still a university student so anything that can help me progress would be amazing
+
 
 
  <h2>Contact info</h2>
