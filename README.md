@@ -13,8 +13,9 @@
 
  <h2>Contact info</h2>
 - 📫 How to reach me: you can reach me here or through LinkedIn at: https://www.linkedin.com/in/lewis-beard/
+<br>
 - 😄 Pronouns: He/Him
- 
+<br>
 - ⚡ Fun fact: I love Warhammer, if you like Warhammer then we will get on just fine.
 
 <!---
