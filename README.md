@@ -9,6 +9,7 @@
 - 🌱 I have experience with C, C++, Java, Python, HTML5, CSS, Javascript. I am currently learning React, NodeJS, and how to make a PERN app through Codecademy 
 <br>
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <br>
 <br>
 - 💞️ I am still a university student so anything that can help me progress would be amazing
